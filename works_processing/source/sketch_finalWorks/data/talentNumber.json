@@ -1,0 +1,72 @@
+[
+	{
+		"id": 0,
+		"name": "美国",
+		"talent": 28536,
+		"superTalent": 5158,
+		"rate": "18.1%"
+	},
+	{
+		"id": 1,
+		"name": "英国",
+		"talent": 7998,
+		"superTalent": 1177,
+		"rate": "14.7%"
+	},
+	{
+		"id": 2,
+		"name": "德国",
+		"talent": 9441,
+		"superTalent": 1119,
+		"rate": "11.9%"
+	},
+	{
+		"id": 3,
+		"name": "法国",
+		"talent": 6395,
+		"superTalent": 1056,
+		"rate": "16.5"
+	},
+	{
+		"id": 4,
+		"name": "意大利",
+		"talent": 4740,
+		"superTalent": 987,
+		"rate": "20%"
+	},
+	{
+		"id": 5,
+		"name": "中国",
+		"talent": 18232,
+		"superTalent": 977,
+		"rate": "5.4%"
+	},
+	{
+		"id": 6,
+		"name": "西班牙",
+		"talent": 4942,
+		"superTalent": 772,
+		"rate": "15.6%"
+	},
+	{
+		"id": 7,
+		"name": "日本",
+		"talent": 3117,
+		"superTalent": 651,
+		"rate": "20.9%"
+	},
+	{
+		"id": 8,
+		"name": "加拿大",
+		"talent": 4228,
+		"superTalent": 606,
+		"rate": "14.3%"
+	},
+	{
+		"id": 9,
+		"name": "澳大利亚",
+		"talent": 3186,
+		"superTalent": 515,
+		"rate": "16.2%"
+	}
+]
